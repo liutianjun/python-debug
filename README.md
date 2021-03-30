@@ -1,2 +1,2 @@
-# python-debug
-python调试程序初始化
+# python small tools
+1. python 小工具收集
